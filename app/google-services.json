@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "712220071655",
+    "project_id": "pc2equipos",
+    "storage_bucket": "pc2equipos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712220071655:android:8c3a46658d4d374b33b442",
+        "android_client_info": {
+          "package_name": "com.equipos.dpa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhTk_MPQpLOxvfAyK_v1RUTq3NrmFSIFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712220071655:android:6e20cb3520253dd533b442",
+        "android_client_info": {
+          "package_name": "com.example.pc2_roggerflores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhTk_MPQpLOxvfAyK_v1RUTq3NrmFSIFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
